@@ -28,7 +28,13 @@ The best way to read this guide is to follow it step by step. All steps are esse
 
 By following along with this guide, you'll create a Rails project called blog, a (very) simple weblog. Before you can start building the application, you need to make sure that you have Rails itself installed.
 
-### a. Installing Rails
+### 3.1. <u>Installing Rails</u>
+
+Before you install Rails, you should check to make sure that your system has the proper prerequisites installed. These include:
+
+- Ruby
+
+- SQLite3
 
 ### b. Creating the Blog Application
 
