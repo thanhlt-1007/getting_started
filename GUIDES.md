@@ -2,6 +2,14 @@
 
 ## 1. <u>Guide Assumptions</u>
 
+This guide is designed for beginners who want to get started with creating a Rails application from scratch. It does not assume that you have any prior experience with Rails.
+
+Rails is a web application framework running on the Ruby programming language. If you have no prior experience with Ruby, you will find a very step learning curve diving straight into Rails. There are several cerated lists of oneline resource for learning Ruby:
+- [Official Ruby Programming Language website](https://www.ruby-lang.org/en/documentation/)
+- [List of Free Programing Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby)
+
+Be aware that some resources, while still excellent, cover older version of Ruby, and may not include some syntax that you will see in day-to-day development with Rails.
+
 ## 2. <u>What is Rails?</u>
 
 ## 3. <u>Creating a New Rails Project</u>
